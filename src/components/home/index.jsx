@@ -8,40 +8,25 @@ export default function Home() {
       {
         type: 'text',
         title: 'biography',
-        data: 'I have been programming for 4 years, specializing in backend development for 3 years with Django and PHP. Since February 2023, I have expanded my skill set to include React, where I continue to develop web applications using modern frontend technologies.',
+        data: 'Namaste, this is my one of many unprofessional websites that I build for fun and I have been doing this for almost an year now.',
       },
       {
         title: 'projects',
         data: [
           {
             type: 'link',
-            title: 'Trading-View',
-            data: 'https://github.com/norouzex/Trading-View',
+            title: 'GSH DevCon Submissions',
+            data: 'https://github.com/aayushmishra2027/gsh.dev',
           },
           {
             type: 'link',
-            title: 'flappy-bird',
-            data: 'https://github.com/norouzex/flappy-bird',
+            title: 'portfolio v1',
+            data: 'https://github.com/aayushmishra2027/my-portfolio',
           },
           {
             type: 'link',
-            title: 'CafeBazaar-Apk-Downloader',
-            data: 'https://github.com/norouzex/CafeBazaar-Apk-Downloader',
-          },
-          {
-            type: 'link',
-            title: 'multi-telegram-bot-manager',
-            data: 'https://github.com/norouzex/multi-telegram-bot-manager',
-          },
-          {
-            type: 'link',
-            title: 'food-order',
-            data: 'https://github.com/norouzex/food-order',
-          },
-          {
-            type: 'link',
-            title: 'backup-path',
-            data: 'https://github.com/norouzex/backup-path',
+            title: 'Cpp-Programs',
+            data: 'https://github.com/aayushmishra2027/cpp-programs',
           },
         ],
       },
@@ -51,34 +36,29 @@ export default function Home() {
           {
             type: 'link',
             title: 'github',
-            data: 'https://github.com/norouzex',
+            data: 'https://github.com/aayushmishra2027',
           },
           {
             type: 'link',
             title: 'linkedin',
-            data: 'https://www.linkedin.com/in/norouzy/',
-          },
-          {
-            type: 'link',
-            title: 'telegram',
-            data: 'http://t.me/n0rouzy',
+            data: 'https://www.linkedin.com/in/aayush-anil-mishra/',
           },
           {
             type: 'link',
             title: 'instagram',
-            data: 'https://www.instagram.com/n0rouzy/',
+            data: 'https://www.instagram.com/aayush.json',
           },
           {
             type: 'link',
             title: 'email',
-            data: 'mailto:norouzymohamad@gmail.com',
+            data: 'mailto:aayushmishra1105@gmail.com',
           },
         ],
       },
       {
         type: 'text',
         title: 'skills',
-        data: 'Html-css ,React.js ,JavaScript ,Python ,Django ,DRF ,Php ,Mysql ,Web Scraping ,Rest-Api ,Gsap ,NextJs ,TypeScript ,Tailwind ,React Hooks ,Redux ,Git ,Redis ,WebSocket ,Linux ,Postman',
+        data: 'Html-css ,React.js ,JavaScript ,Python ,NextJs ,TypeScript ,Tailwind ,React Hooks ,Redux ,Git',
       },
     ],
   }
@@ -358,10 +338,10 @@ export default function Home() {
             Made With ❤️ By{' '}
             <a
               className="text-[#4d14ff]"
-              href="https://github.com/norouzex/Retro-Game"
+              href="https://github.com/aayushmishra2027/Retro-Game"
               target="_blank"
             >
-              Noruzex
+              Aayush
             </a>
           </p>
         </div>
